@@ -12,31 +12,22 @@ A - Deve prover o conhecimento técnico necessário sobre os Sistemas de Informa
 B - É a unidade funcional que está envolvida com o atendimento das demandas dos usuários de TI e monitoração de alertas que são disparados por sistemas de gerenciamento da infraestrutura e software em operação;
 C - Sua responsabilidade recai sobre a monitoração, o controle e a manutenção da infraestrutura de TI de uma Organização, de forma a assegurar a entrega do nível dos serviços acordado entre TI e negócio.
 
-a I-C, II-B, III-A
-b I-C, II-A, III-B
-c I-A, II-C, III-B
+
 ✔ d I-B, II-C, III-A
-e I-B, II-A, III-C
+
 
 Pontuação: 1
 
 **2** Dentro do gerenciamento de recursos de TI, temos que "disponibilidade" é a capacidade que um componente ou serviço tem de executar suas tarefas, sempre que solicitado, de forma assertiva. A disponibilidade resulta de um cálculo, que fornece um número em números percentuais. Assim, calcula-se a relação entre o tempo de serviço expresso no contrato e sua indisponibilidade, sempre sobre o prisma do negócio. Se um determinado serviço foi acordado em contrato que estaria disponível 99% durante dias úteis (das 7h00 às 19h00) e, por algum problema, ficou fora de operação durante 4 horas durante um dia no mês, qual o percentual de disponibilidade? Considere 21 dias úteis no mês para o cálculo.
 
 ✔ a 98,4%
-b 99,4%
-c 91,4%
-d 92,4%
-e 97,4%
+
 
 Pontuação: 1
 
 **3** Além do ciclo PDCA (PLAN-DO-CHECK-ACT ou Planejar-Fazer-Verificar-Agir), é importante que o gestor de TI compreenda e implemente seis etapas, que devem ser cumpridas sequencialmente, buscando um processo de melhoria de serviços eficiente. As seis etapas são:
 
-a Etapa 1 - Identificar e definir a estratégia de melhoria; Etapa 2 - Desenvolver indicadores de desempenho; Etapa 3 - Coletar os dados; Etapa 4 - Processar os dados; Etapa 5 - Analisar os dados coletados; Etapa 6 - Implementar melhoria.
-b Etapa 1-Identificar e definir a estratégia de melhoria; Etapa 2 - Definir o que medir; Etapa 3 - Coletar os dados; Etapa 4 - Levantar custos; Etapa 5 - Analisar os dados coletados; Etapa 6 - Implementar melhoria.
-c Etapa 1 - Identificar e definir a estratégia de melhoria; Etapa 2 - Definir o que medir; Etapa 3 - Coletar os dados; Etapa 4 - Desenvolver projetos de manutenção; Etapa 5 - Analisar os dados coletados; Etapa 6 - Implementar melhoria.
-d Etapa 1-Identificar e definir a estratégia de melhoria; Etapa 2 - Definir o que medir; Etapa 3 - Coletar os dados; Etapa 4 - Processar os dados; Etapa 5 - Extrair dados financeiros; Etapa 6 - Implementar melhoria.
-✔✔ e Etapa 1 - Identificar e definir a estratégia de melhoria; Etapa 2 - Definir o que medir; Etapa 3 - Coletar os dados; Etapa 4 - Processar os dados; Etapa 5 - Analisar os dados coletados; Etapa 6 - Implementar melhoria.
+✔ e Etapa 1 - Identificar e definir a estratégia de melhoria; Etapa 2 - Definir o que medir; Etapa 3 - Coletar os dados; Etapa 4 - Processar os dados; Etapa 5 - Analisar os dados coletados; Etapa 6 - Implementar melhoria.
 
 Pontuação: 1
 
@@ -55,20 +46,14 @@ C - O fato de uma estratégia não ser devidamente comunicada e explicitada para
 D - Se os objetivos de uma estratégia estiverem claros e forem alcançáveis, já há um grande passo para seu sucesso.
 
 ✔a I-B II-C III-D IV-A
-b I-A II-C III-D IV-B
-c I-C II-B III-D IV-A
-d I-B II-D III-C IV-A
-e I-D II-B III-C IV-A
+
 
 Pontuação: 1
 
 **5** Depois do esboço de todos os pontos de conexão do serviço com as demais atividades da empresa, deve-se definir as políticas de TI, em relação ao serviço proposto. Assinale a alternativa que descreve corretamente o conceito de políticas de TI.
 
-a As políticas devem abordar gestão de consequências e redundâncias, normas de segurança da informação, código de ética, utilização de recursos de TI, questões financeiras, marketing e descartar as responsabilidades. A política de segurança deve prever credenciais e políticas muito bem definida de direitos a acessos, bem como o controle de equipamentos próprios dos funcionários.
 ✔ b As políticas devem abordar gestão de consequências e redundâncias, normas de segurança da informação, código de ética, utilização de recursos de TI e principalmente as responsabilidades. A política de segurança deve prever credenciais e políticas muito bem definida de direitos a acessos, bem como o controle de equipamentos próprios dos funcionários.
-c As políticas devem abordar gestão de consequências e redundâncias, normas de segurança da informação, código de ética, utilização de recursos de TI descartando as responsabilidades. A política de segurança deve prever credenciais e políticas muito bem definida de direitos a acessos deixando de lado o controle de equipamentos próprios dos funcionários.
-d As políticas devem abordar gestão de consequências e redundâncias, normas de segurança da informação, código de ética, utilização de recursos de TI e principalmente as responsabilidades. A política de segurança deve evitar credenciais e políticas muito bem definida de direitos a acessos, bem como o controle de equipamentos próprios dos funcionários.
-e As políticas devem abordar gestão financeira, recursos humanos, normas de segurança da informação, código de ética, utilização de recursos de TI e principalmente as responsabilidades. A política de segurança deve prever credenciais e políticas muito bem definida de direitos a acessos, bem como o controle de equipamentos próprios dos funcionários.
+
 
 Pontuação: 1
 
